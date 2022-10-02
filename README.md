@@ -1,3 +1,4 @@
+<html>
 <p align="center"><img width="576" alt="Hfest-Logo-2-Color-Void@2x" src="https://user-images.githubusercontent.com/72184293/193453787-7815c591-e093-4d72-9522-39cf823f60df.png"></p>
 
 <h1>PARTICIPATION</h1>
@@ -49,3 +50,4 @@ SHORT-TERM ACTION, LONG-TERM IMPACT
 </div>
 </div>
 </section>
+</html>
